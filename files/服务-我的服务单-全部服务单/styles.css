@@ -370,3 +370,32 @@
   width:431px;
   word-wrap:break-word;
 }
+#u110 {
+  position:absolute;
+  left:1020px;
+  top:165px;
+  width:0px;
+  height:0px;
+}
+#u110_seg0 {
+  position:absolute;
+  left:-4px;
+  top:-35px;
+  width:8px;
+  height:39px;
+}
+#u110_seg1 {
+  position:absolute;
+  left:-10px;
+  top:-42px;
+  width:20px;
+  height:20px;
+}
+#u111 {
+  position:absolute;
+  left:-50px;
+  top:-26px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
